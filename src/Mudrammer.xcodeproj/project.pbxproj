@@ -1245,7 +1245,7 @@
 						TestTargetID = 5E591C781634C80C00F2EB9F;
 					};
 					5E591C781634C80C00F2EB9F = {
-						DevelopmentTeam = 4YFMUNMLU8;
+						DevelopmentTeam = XYL49Z8YJS;
 					};
 				};
 			};
@@ -1890,7 +1890,7 @@
 				CLANG_WARN__ARC_BRIDGE_CAST_NONARC = YES;
 				CLANG_WARN__EXIT_TIME_DESTRUCTORS = YES;
 				CODE_SIGN_ENTITLEMENTS = "Mudrammer/Supporting Files/MUDRammer.entitlements";
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COMPRESS_PNG_FILES = NO;
 				COPY_PHASE_STRIP = NO;
